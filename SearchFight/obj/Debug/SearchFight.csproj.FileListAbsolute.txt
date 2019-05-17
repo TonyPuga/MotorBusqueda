@@ -1,0 +1,3 @@
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight\obj\Debug\SearchFight.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight\bin\Debug\SearchFight.exe.config
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\Nueva carpeta\SearchFight\bin\Debug\SearchFight.exe.config
