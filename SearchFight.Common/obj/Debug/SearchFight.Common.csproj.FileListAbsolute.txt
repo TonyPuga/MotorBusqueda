@@ -1,0 +1,4 @@
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Common\bin\Debug\SearchFight.Common.dll
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Common\bin\Debug\SearchFight.Common.pdb
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Common\obj\Debug\SearchFight.Common.dll
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Common\obj\Debug\SearchFight.Common.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\bin\Debug\SearchFight.Services.dll
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\bin\Debug\SearchFight.Services.pdb
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\bin\Debug\SearchFight.Common.dll
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\bin\Debug\SearchFight.Common.pdb
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\obj\Debug\SearchFight.Services.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\obj\Debug\SearchFight.Services.dll
+C:\Users\Tony\Documents\Proyectos Sistemas\SearchFight-master\SearchFight.Services\obj\Debug\SearchFight.Services.pdb
